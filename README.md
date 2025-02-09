@@ -1,10 +1,10 @@
 # TCP_server
 TCP_server
 # Clone the repository
-$ git clone https://github.com/kurogai/100-redteam-projects
+$ git clone https://github.com/ak00arcane/TCP_server.git
 
 # Enter the repository
-$ cd 100-redteam-projects/Projects/1_TCP_chat_server
+$ cd TCP_server
 
 # Open a terminal and run
 $ python3 TCPserver.py 127.0.0.1 5555
